@@ -1,5 +1,5 @@
 # TestProblem
-TestProblem solution
+TestProblem Solution
 # Usage
 To Run the application: 
 1. Upload the project
