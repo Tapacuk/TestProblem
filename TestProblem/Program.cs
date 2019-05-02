@@ -15,7 +15,7 @@ namespace TestProblem
             Executer.Menu();
 
             Console.WriteLine("End of Program");
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }
